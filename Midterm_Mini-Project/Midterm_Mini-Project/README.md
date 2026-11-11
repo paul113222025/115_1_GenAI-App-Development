@@ -49,6 +49,7 @@ app.py 按「設定→輸入→規格檢查→API→回應檢查→保存→顯�
 ## Cloud部署（必做）與選做功能
 
 第8週必須部署到Streamlit Community Cloud；驗收依[說明書第3-1節](../生成式AI應用開發_第08週_期中個人小專題_課堂簡化版_專題說明書.md)。老師須能開啟App網址，雲端介面可操作，並至少有一筆雲端真實API成功紀錄。
+App 網址：[https://1151genai-app-development-h2rgmjumqzacx3bau9mdhy.streamlit.app](https://1151genai-app-development-h2rgmjumqzacx3bau9mdhy.streamlit.app)
 文字檔上傳、串流、聊天與JSON下載仍為選做。先完成最小任務與部署，延伸不得取代結構化輸出。
 本版沒有檔案上傳與串流流程；可回查第 7 週簡化版的獨立範例。
 Cloud 依平台可選 Python 版本另做部署驗證；本機使用 3.14 不代表雲端已驗證。整個課程 repo 的 Main file path 為 `week08/week08_midterm_simple_starter/app.py`，獨立 repo 則為 `app.py`。
